@@ -44,13 +44,13 @@ After your swap transaction starts, a follow-up pop-up will open and you will be
 
 Go to [faucet.cashmere.exchange](https://faucet.cashmere.exchange) write your wallet to the box and request Test\_USDC.
 
-### 6- Go to Cashmere Pools
+### 7- Go to Cashmere Pools
 
 <figure><img src="../.gitbook/assets/pool.png" alt=""><figcaption></figcaption></figure>
 
 Go to [https://testnet.cashmere.exchange/pool](https://testnet.cashmere.exchange/pool)
 
-### 6- Select Linea Pool and deposit Test\_USDC
+### 8- Select Linea Pool and deposit Test\_USDC
 
 <figure><img src="../.gitbook/assets/LineaPool.png" alt=""><figcaption></figcaption></figure>
 
