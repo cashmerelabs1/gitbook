@@ -5,7 +5,7 @@
 ## Testnet 1.0 Guide
 
 * [Get Testnet Natives](testnet-1.0-guide/get-testnet-natives.md)
-* [How to Swap?](testnet-1.0-guide/how-to-swap.md)
+* [How to Swap & Add Liquidity on Cashmere](testnet-1.0-guide/how-to-swap-and-add-liquidity-on-cashmere.md)
 * [Quests](testnet-1.0-guide/quests.md)
 * [Early Adopter NFT](testnet-1.0-guide/early-adopter-nft.md)
 
