@@ -6,6 +6,9 @@ In this tutorial, we will demonstrate how to utilize a testnet faucets for filli
 
 You can access the testnet faucets of all networks at [https://testnet.cashmere.exchange/dashboard](https://testnet.cashmere.exchange/dashboard)
 
+Test\_USDC faucet to add liquidity:\
+[https://faucet.cashmere.exchange/](https://faucet.cashmere.exchange/)
+
 Goerli ETH Faucet:\
 [https://goerlifaucet.com/](https://goerlifaucet.com/)\
 [https://coinbase.com/faucets/ethereum-goerli-faucet](https://coinbase.com/faucets/ethereum-goerli-faucet)\
