@@ -20,6 +20,7 @@
 * [Technical Docs](developers/technical-docs.md)
 * [Troubleshooting](developers/troubleshooting.md)
 
-## Contact
+## T\&C
 
-* [Contact](contact/contact.md)
+* [Terms & Conditions](t-and-c/terms-and-conditions.md)
+* [Contact](t-and-c/contact.md)
